@@ -10,3 +10,7 @@ production:
   hosts: {vm-web-2: }
   vars: {environnement: PRODUCTION,
          maintenance: false}
+production:
+  hosts: {vm-web-3: }
+  vars: {environnement: SUPPORT,
+         maintenance: false}

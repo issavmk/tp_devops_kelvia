@@ -1,6 +1,6 @@
 # Kelvia — billetterie en ligne de festivals
 
-https://github.com/issavmk/tp_devops_kelvia/actions/workflows/ci.yml/badge.svg
+![ci](https://github.com/issavmk/tp_devops_kelvia/actions/workflows/ci.yaml/badge.svg)
 
 > Cas fictif, exercice pédagogique.
 
